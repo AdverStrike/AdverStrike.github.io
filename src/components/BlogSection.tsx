@@ -50,7 +50,7 @@ const BlogSection = () => {
           {posts.map((post, i) => (
             <motion.a
               key={post.title}
-              href="https://blog-hilinecreators.github.io/"
+              href="https://adverstrike.com/blog"
               target="_blank"
               rel="noopener noreferrer"
               initial={{ opacity: 0, y: 30 }}

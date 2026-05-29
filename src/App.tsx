@@ -23,7 +23,7 @@ const App = () => (
             </Routes>
           </main>
           <footer className="py-6 text-center text-sm text-muted-foreground border-t">
-            &copy; 2026 <a href="https://www.hilinecreators.com/" className="hover:text-primary transition-colors">Hiline Creators</a>. All rights reserved.
+            &copy; 2026 <a href="https://adverstrike.com/" className="hover:text-primary transition-colors">AdverStrike</a>. All rights reserved.
           </footer>
         </div>
       </HashRouter>

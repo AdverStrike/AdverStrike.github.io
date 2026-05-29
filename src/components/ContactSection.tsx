@@ -7,9 +7,9 @@ import { Button } from "@/components/ui/button";
 import { useToast } from "@/hooks/use-toast";
 
 const socials = [
-  { icon: Github, href: "https://7he6uzzer.github.io/", label: "GitHub" },
-  { icon: BookOpen, href: "https://blog-hilinecreators.github.io/", label: "Blog" },
-  { icon: Mail, href: "mailto:contact@hilinecreators.com", label: "Email" },
+  { icon: Github, href: "https://github.com/AdverStrike", label: "GitHub" },
+  { icon: BookOpen, href: "https://adverstrike.com/blog", label: "Blog" },
+  { icon: Mail, href: "mailto:contact@adverstrike.com", label: "Email" },
 ];
 
 const threats = [
@@ -144,7 +144,7 @@ const ContactSection = () => {
               ))}
             </div>
             <p className="text-xs text-muted-foreground font-mono">
-              © 2026 Hiline Creators. All rights reserved.
+              © 2026 AdverStrike. All rights reserved.
             </p>
           </div>
         </div>

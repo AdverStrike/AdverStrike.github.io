@@ -32,8 +32,8 @@ const Navbar = () => {
         }`}
       >
         <div className="flex items-center justify-between h-14 px-5 max-w-7xl mx-auto">
-          <a href="https://www.hilinecreators.com/" className="font-display text-xl md:text-2xl font-extrabold text-foreground tracking-wider">
-            Hiline <span className="text-primary">Creators</span>
+          <a href="https://adverstrike.com/" className="font-display text-xl md:text-2xl font-extrabold text-foreground tracking-wider">
+            Adver<span className="text-primary">Strike</span>
           </a>
 
           {/* Desktop */}
@@ -49,10 +49,10 @@ const Navbar = () => {
             ))}
             <div className="w-px h-4 bg-border/50" />
             <ThemeToggle />
-            <a href="https://hari.hilinecreators.com/" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
+            <a href="https://github.com/AdverStrike" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
               <Github className="w-4 h-4" />
             </a>
-            <a href="https://blog.hilinecreators.com/" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
+            <a href="https://adverstrike.com/blog" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
               <BookOpen className="w-4 h-4" />
             </a>
           </div>
@@ -77,10 +77,10 @@ const Navbar = () => {
             ))}
             <div className="flex items-center gap-4 pt-2">
               <ThemeToggle />
-              <a href="https://hari.hilinecreators.com/" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary">
+              <a href="https://github.com/AdverStrike" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary">
                 <Github className="w-4 h-4" />
               </a>
-              <a href="https://blog.hilinecreators.com/" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary">
+              <a href="https://adverstrike.com/blog" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary">
                 <BookOpen className="w-4 h-4" />
               </a>
             </div>
